@@ -1,4 +1,4 @@
-# furniture_shop_ui
+# furniture shop ui flutter
 
 A new Flutter project.
 
