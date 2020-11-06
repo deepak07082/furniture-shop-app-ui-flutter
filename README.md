@@ -1,19 +1,12 @@
-# furniture shop ui flutter
+# Furniture Shop UI Flutter
 
-A new Flutter project.
+Flutter based Furniture shop UI
 
-## Getting Started
+# Demo
+Demo available on YouTube.
 
-This project is a starting point for a Flutter application.
+Link: 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-background color:  #4398B8
+![Furniture-Shop-Mobile-App-UI-Concept](https://user-images.githubusercontent.com/54774962/98377054-57682f80-206a-11eb-8bb8-9eb32b9cb608.jpg)
