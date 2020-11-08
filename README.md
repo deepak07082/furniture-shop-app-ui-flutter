@@ -5,7 +5,7 @@ Flutter based Furniture shop UI
 ## Demo
 Demo available on YouTube.
 
-Link: 
+Link: https://youtu.be/UDiyqbZLcTg
 
 ## Screenshot
 
