@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flare_flutter/flare_actor.dart';
 import 'package:flutter/material.dart';
+import 'package:furniture_shop_ui/screens/2nd_page.dart';
 import 'package:furniture_shop_ui/screens/home.dart';
 
 class Spleash_screen extends StatefulWidget {
@@ -41,6 +42,6 @@ class _Spleash_screenState extends State<Spleash_screen> {
 
   nextpage() {
     Navigator.push(
-        context, MaterialPageRoute(builder: (BuildContext context) => Home()));
+        context, MaterialPageRoute(builder: (BuildContext context) => page2()));
   }
 }
